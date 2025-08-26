@@ -4,7 +4,7 @@
 """ Fine-tuning a 🤗 Transformers CTC model for automatic speech recognition"""
 
 """
-Nhan documentation on the finetune script
+
 
 The model might be different with other Finnish wav2vec2 model due to the following:
 
